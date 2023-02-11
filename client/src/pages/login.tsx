@@ -63,9 +63,7 @@ export const Login: React.FC = () => {
             alignItems: "center",
           }}
         >
-          <div>
-            <img src={yariga} alt="Yariga Logo" />
-          </div>
+        
           <Box mt={4}>
             <GoogleButton />
           </Box>
